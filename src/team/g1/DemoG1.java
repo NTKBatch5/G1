@@ -34,6 +34,8 @@ public class DemoG1 {
 		System.out.println("How's team G1 doing today?");
 		
 		System.out.println("Fixing....");
+		
+		System.out.println("Hello Batch 7....");
 	}
 
 	public static void sub(int a, int b) {
