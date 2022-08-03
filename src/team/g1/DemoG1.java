@@ -15,10 +15,12 @@ public class DemoG1 {
 		System.out.println("Test5");
 		
 		System.out.println("Test6");
+		
+		System.out.println("Started from the bottom now we are here");
 	}
 
 	
 public static void sub(int a, int b){
-	System.out.println(a-b);
+	system.out.println(a-b);
 }
 }
