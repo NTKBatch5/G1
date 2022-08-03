@@ -21,5 +21,7 @@ public class DemoG1 {
 		g = "G1";
 		System.out.println(g);
 	}
-
+public static void sub(int a, int b){
+	system.out.println(a-b);
+}
 }
