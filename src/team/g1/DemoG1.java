@@ -30,12 +30,13 @@ public class DemoG1 {
 		
 		// Hanouna
 		System.out.println("Test 8");
-		
+
 		System.out.println("How's team G1 doing today?");
+		
+		System.out.println("Fixing....");
 	}
 
-	
-public static void sub(int a, int b){
-	System.out.println(a-b);
-}
+	public static void sub(int a, int b) {
+		System.out.println(a - b);
+	}
 }
