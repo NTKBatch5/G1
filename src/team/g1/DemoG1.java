@@ -19,6 +19,6 @@ public class DemoG1 {
 
 	
 public static void sub(int a, int b){
-	system.out.println(a-b);
+	System.out.println(a-b);
 }
 }
