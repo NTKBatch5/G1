@@ -9,6 +9,8 @@ public class DemoG1 {
 		System.out.println("Test2");
 		
 		System.out.println("Test3");
+		
+		System.out.println("Test4");
 	}
 
 	public static void add(String g) {
