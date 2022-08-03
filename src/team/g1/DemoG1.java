@@ -7,6 +7,8 @@ public class DemoG1 {
 		System.out.println("Let's go team G1");
 		
 		System.out.println("Test2");
+		
+		System.out.println("Test3");
 	}
 
 	public static void add(String g) {
