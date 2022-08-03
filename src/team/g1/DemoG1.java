@@ -30,6 +30,8 @@ public class DemoG1 {
 		
 		// Hanouna
 		System.out.println("Test 8");
+		
+		System.out.println("How's team G1 doing today?");
 	}
 
 	
