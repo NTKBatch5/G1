@@ -20,6 +20,7 @@ public class DemoG1 {
 		System.out.println("Test7");
 		
 		System.out.println("Java is fun");
+		System.out.println(" Carlos wants to get Lambotghini ca r so bad!!!")
 	}
 
 	
