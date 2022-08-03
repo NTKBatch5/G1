@@ -26,5 +26,13 @@ public class DemoG1 {
 
 	public static void sub(int a, int b) {
 		System.out.println(a - b);
+		
+			//User Carlos
+		System.out.println("Tuesday Night Homework");
+		
+
+		System.out.println("How's team G1 doing today?");
+		
+		System.out.println("Fixing....");
 	}
 }
