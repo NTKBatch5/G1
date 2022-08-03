@@ -12,7 +12,9 @@ public class DemoG1 {
 		
 		System.out.println("Test4");
 		
-		Sysout.out.println("Test5");
+		System.out.println("Test5");
+		
+		System.out.println("Test6");
 	}
 
 	public static void add(String g) {
