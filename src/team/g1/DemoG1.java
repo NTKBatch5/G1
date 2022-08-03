@@ -18,6 +18,8 @@ public class DemoG1 {
 		
 		System.out.println("Started from the bottom now we are here");
 		System.out.println("Test7");
+		
+		System.out.println("Java is fun");
 	}
 
 	
