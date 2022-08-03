@@ -18,8 +18,7 @@ public class DemoG1 {
 		
 		System.out.println("Started from the bottom now we are here");
 		
-		//User carlos
-		System.out.println("$150k salary plz");
+		System.out.println("Carlos had Ferreros today");
 	}
 
 	
