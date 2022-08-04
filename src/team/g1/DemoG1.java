@@ -88,8 +88,7 @@ public class DemoG1 {
 		System.out.println("_____________¶¶__¶¶____¶¶_________¶¶");
 		System.out.println("______________¶¶_¶¶_¶__¶_______¶¶¶¶");
 		System.out.println("_______________¶¶¶__¶¶¶¶¶__¶¶¶¶¶");
-		System.out.println("_________________¶¶¶¶¶__¶¶¶¶¶\n"
-				+ "");
+		System.out.println("_________________¶¶¶¶¶__¶¶¶¶¶\n");
 		
 		
 	
