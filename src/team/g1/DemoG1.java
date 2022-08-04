@@ -37,6 +37,9 @@ public class DemoG1 {
 
 		System.out.println("Fixing....");
 		
+		//User Brandon
+		System.out.println("Hello people of Earth!");
+		
 	}
 
 	public static void sub(int a, int b) {
