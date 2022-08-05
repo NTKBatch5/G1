@@ -7,13 +7,14 @@ public class DemoG1 {
 		System.out.println("Let's go team G1");
 
 		System.out.println("Started from the bottom now we here");
-		
+
 		System.out.println(" Hanan");
-		
+
 		// User Hanan
 		System.out.println(" we are having fun with github ");
-		
 
+		// User Carlos
+		System.out.println("Thursday night Homework");
 
 		System.out.println("Java is fun");
 		System.out.println(" Carlos wants to get Lambotghini car so bad!!!");
@@ -29,15 +30,15 @@ public class DemoG1 {
 		System.out.println("Fixing....");
 
 		System.out.println("Hello Batch 7....");
-		
+
 		// User Carlos
 		System.out.println("Tuesday Night Homework");
 
 		System.out.println("How's team G1 doing today?");
 
 		System.out.println("Fixing....");
-		
-		//User Brandon
+
+		// User Brandon
 		System.out.println("Hello people of Earth!");
 		
 		System.out.println("_____________¶¶¶¶¶¶¶");
@@ -94,10 +95,13 @@ public class DemoG1 {
 	
 		
 	}
+	
+	public void subtract(int a, int b) {
+		System.out.println(a - b);
+	}
 
 	public static void sub(int a, int b) {
 		System.out.println(a - b);
-
 
 	}
 }
