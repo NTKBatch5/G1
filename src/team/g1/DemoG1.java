@@ -11,12 +11,12 @@ public class DemoG1 {
 
 		System.out.println("Started from the bottom now we here");
 
-		System.out.println("RIP to ma' Popeyes!");
-		
 		System.out.println(" Hanan");
 
 		// User Hanan
 		System.out.println(" we are having fun with github ");
+		System.out.println("I was hungry so I ate a snack");
+		
 
 		// User Carlos
 		System.out.println("Thursday night Homework");
@@ -120,7 +120,8 @@ public class DemoG1 {
 
 		System.out.println(employees.get(2671293));
 
-
+               // User Hanan
+		System.out.println("Carlos do not drive too fast with your ferrari car !");
 
 		System.out.println(employees.containsValue("Pedro Venereo Padilla"));
 		
