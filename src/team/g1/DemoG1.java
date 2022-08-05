@@ -40,6 +40,10 @@ public class DemoG1 {
 		//User Brandon
 		System.out.println("Hello people of Earth!");
 		
+		//User Brandon
+		System.out.println("Snoopy below is pretty fucking dope tbh");
+				   
+				   
 		System.out.println("_____________¶¶¶¶¶¶¶");
 		System.out.println("___________¶¶¶______¶¶¶");
 		System.out.println("_________¶¶¶___________¶¶");
