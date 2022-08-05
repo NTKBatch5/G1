@@ -10,6 +10,7 @@ public class DemoG1 {
 		
 		System.out.println(" Hanan");
 		
+		System.out.println(" My nick name is Hanouna");
 		// User Hanan
 		System.out.println(" we are having fun with github ");
 		//User Carlos
