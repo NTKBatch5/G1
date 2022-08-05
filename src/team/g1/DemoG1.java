@@ -1,5 +1,8 @@
 package team.g1;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class DemoG1 {
 
 	public static void main(String[] args) {
@@ -8,6 +11,8 @@ public class DemoG1 {
 
 		System.out.println("Started from the bottom now we here");
 
+		System.out.println("RIP to ma' Popeyes!");
+		
 		System.out.println(" Hanan");
 
 		// User Hanan
@@ -92,9 +97,35 @@ public class DemoG1 {
 		System.out.println("_________________¶¶¶¶¶__¶¶¶¶¶\n");
 		
 		
+		Map<Integer, String> employees = new HashMap<>();
 	
+
+
+
+		employees.put(2671293, "Pedro Venereo Padilla");
+
+		employees.put(2510754, "Gonzalo Blondet");
+
+		employees.put(54321, "George");
+
+		employees.put(11111, "Kramer");
+
+		employees.put(22222, "Newman");
+
+
+
+		System.out.println(employees);
+
+
+
+		System.out.println(employees.get(2671293));
+
+
+
+		System.out.println(employees.containsValue("Pedro Venereo Padilla"));
 		
 	}
+	
 	
 	public void subtract(int a, int b) {
 		System.out.println(a - b);
