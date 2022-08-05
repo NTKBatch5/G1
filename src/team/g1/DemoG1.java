@@ -47,46 +47,57 @@ public class DemoG1 {
 		// User Brandon
 		System.out.println("Hello people of Earth!");
 		
+		System.out.println("_____________¶¶¶¶¶¶¶");
+		System.out.println("___________¶¶¶______¶¶¶");
+		System.out.println("_________¶¶¶___________¶¶");
+		System.out.println("________¶¶______________¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶");
+		System.out.println("_______¶¶___________________¶_______¶¶¶¶¶");
+		System.out.println("______¶¶________________________________¶¶¶");
+		System.out.println("_____¶¶___________________________________¶¶");
+		System.out.println("____¶¶___________________¶¶________________¶¶");
+		System.out.println("____¶¶___________________¶¶_________________¶");
+		System.out.println("___¶¶____________________¶__________________¶");
+		System.out.println("___¶¶___¶¶__________________________________¶");
+		System.out.println("__¶¶__¶_¶¶¶¶¶_______________________________¶¶");
+		System.out.println("__¶¶_¶¶¶¶¶¶¶¶¶______________________________¶¶¶");
+		System.out.println("__¶__¶¶¶¶¶¶¶¶¶______________________________¶¶¶");
+		System.out.println("__¶_¶¶¶¶¶¶¶¶¶¶¶¶___________________________¶¶");
+		System.out.println("__¶_¶¶¶_¶¶¶_¶¶_¶¶_________________________¶¶");
+		System.out.println("__¶_¶¶_¶¶¶¶¶¶¶¶_¶_______________________¶¶");
+		System.out.println("__¶_¶¶__¶¶¶¶¶¶¶_¶¶___¶¶______________¶¶¶¶");
+		System.out.println("__¶_¶¶__¶¶¶¶¶¶¶_¶¶____¶___________¶¶¶¶");
+		System.out.println("__¶_¶¶¶¶¶¶¶__¶¶_¶¶_____¶¶¶¶___¶¶¶¶¶");
+		System.out.println("___¶_¶¶¶¶¶¶__¶¶_¶__________¶¶¶¶");
+		System.out.println("___¶¶__¶¶¶¶¶¶¶__¶¶¶¶______¶¶¶");
+		System.out.println("____¶¶___¶¶¶___¶¶¶¶¶¶____¶¶");
+		System.out.println("_____¶¶¶_____¶¶¶____¶_____¶¶¶");
+		System.out.println("________¶¶¶¶¶¶_____¶¶¶¶¶¶¶¶¶");
+		System.out.println("____________________¶¶_____¶¶");
+		System.out.println("____________________¶_______¶¶");
+		System.out.println("____________________¶________¶¶");
+		System.out.println("___________________¶¶_________¶¶");
+		System.out.println("___________________¶____¶¶_____¶¶");
+		System.out.println("__________________¶¶____¶¶______¶¶");
+		System.out.println("__________________¶_¶____¶_______¶¶");
+		System.out.println("_________________¶¶_¶____¶¶______¶¶");
+		System.out.println("___________¶¶¶¶__¶¶_¶_____¶______¶¶");
+		System.out.println("____________¶¶¶¶¶¶¶_¶_____¶______¶¶");
+		System.out.println("_____________¶¶__¶_¶______¶_____¶¶¶___¶¶¶");
+		System.out.println("_______________¶¶¶_¶___¶__¶_____¶¶__¶¶¶_¶¶");
+		System.out.println("_____________¶¶__¶_¶¶__¶_¶¶___¶¶___¶¶____¶¶");
+		System.out.println("____________¶¶¶¶__¶_¶¶¶¶¶_____¶¶__¶¶_____¶¶");
+		System.out.println("___________¶¶__¶¶¶¶____________¶¶¶_______¶¶");
+		System.out.println("___________¶¶___¶¶____¶¶¶¶¶_____¶_____¶_¶¶");
+		System.out.println("____________¶________¶____¶____________¶¶");
+		System.out.println("____________¶_______¶¶____¶¶______¶¶___¶¶");
+		System.out.println("____________¶¶_______¶¶___¶¶________¶¶¶¶");
+		System.out.println("_____________¶¶_______¶¶_¶¶_________¶¶");
+		System.out.println("_____________¶¶__¶¶____¶¶_________¶¶");
+		System.out.println("______________¶¶_¶¶_¶__¶_______¶¶¶¶");
+		System.out.println("_______________¶¶¶__¶¶¶¶¶__¶¶¶¶¶");
+		System.out.println("_________________¶¶¶¶¶__¶¶¶¶¶\n");
 
-		
-		
-		Map<Integer, String> employees = new HashMap<>();
-	
-
-
-
-		employees.put(2671293, "Pedro Venereo Padilla");
-
-		employees.put(2510754, "Gonzalo Blondet");
-
-		employees.put(54321, "George");
-
-		employees.put(11111, "Kramer");
-
-		employees.put(22222, "Newman");
-
-
-
-		System.out.println(employees);
-
-
-
-		System.out.println(employees.get(2671293));
-
-               // User Hanan
-		System.out.println("Carlos do not drive too fast with your ferrari car !");
-
-		System.out.println(employees.containsValue("Pedro Venereo Padilla"));
 		
 	}
 	
-	
-	public void subtract(int a, int b) {
-		System.out.println(a - b);
-	}
-
-	public static void sub(int a, int b) {
-		System.out.println(a - b);
-
-	}
 }
