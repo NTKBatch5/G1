@@ -1,5 +1,8 @@
 package team.g1;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class DemoG1 {
 
 	public static void main(String[] args) {
@@ -92,6 +95,7 @@ public class DemoG1 {
 		System.out.println("_________________¶¶¶¶¶__¶¶¶¶¶\n");
 		
 		
+		Map<Integer, String> employees = new HashMap<>();
 	
 
 
